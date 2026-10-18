@@ -1,5 +1,6 @@
 # Chhattisgarh EV Fast-Charging Gap Analysis & Optimal Site Selection
-<img width="1917" height="1020" alt="9  dashboard_overview" src="https://github.com/user-attachments/assets/21421998-9567-4e05-a4c3-367725cfabd5" />
+<img width="1191" height="729" alt="9  dashboard_overview" src="https://github.com/user-attachments/assets/3eec0214-823d-4592-af1b-493fdb992568" />
+
 ## Executive Summary
 Long-distance electric vehicle (EV) adoption along inter-district transit corridors is constrained by highway charging gaps ("range anxiety"). This project evaluates highway network coverage across Chhattisgarh to locate critical gaps beyond 50 km service thresholds, identifying **8 high-priority fast-charging candidate locations** serving a **2.64M population catchment** and targeting **1,330 km of uncovered highway corridors**.
 
